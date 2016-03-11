@@ -1,0 +1,14 @@
+﻿Redo how I'm passing the towers projectile texture. Maybe add it to the towers graphic. 
+
+in checkfire I should be able to pass in game time and add to a new variable (time since last shot) and if that is >= shot speed only shoot then.
+	Make sure I do time increase only once per update, not once per enemy checked.
+
+Not really sure how to do rotation on projectiles based on enemy position in relation yet. Possibly slope along with if a and b are - or +.
+
+Need to add in hitting the target, lowering health, etc.
+
+General Stuff:
+Move variables like scaling, lifes, lumber, gold to a public static class outside of game1 so I can access them in classes such as enemy to take away a life.
+
+
+Eventually want to change texture dimensions to 64 for when I make my own graphics.

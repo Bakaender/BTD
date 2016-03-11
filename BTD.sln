@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTD", "BTD\BTD\BTD.csproj", "{02040D80-BB40-4AB3-81D1-B27D6CAC3B79}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BTDContent", "BTD\BTDContent\BTDContent.contentproj", "{C86D1EDD-A5F5-4CBF-BAF7-24DFC337DB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02040D80-BB40-4AB3-81D1-B27D6CAC3B79}.Debug|x86.ActiveCfg = Debug|x86
+		{02040D80-BB40-4AB3-81D1-B27D6CAC3B79}.Debug|x86.Build.0 = Debug|x86
+		{02040D80-BB40-4AB3-81D1-B27D6CAC3B79}.Release|x86.ActiveCfg = Release|x86
+		{02040D80-BB40-4AB3-81D1-B27D6CAC3B79}.Release|x86.Build.0 = Release|x86
+		{C86D1EDD-A5F5-4CBF-BAF7-24DFC337DB9B}.Debug|x86.ActiveCfg = Debug|x86
+		{C86D1EDD-A5F5-4CBF-BAF7-24DFC337DB9B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

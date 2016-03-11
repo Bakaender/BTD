@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GrassRoadSheet.png</Source>
+      <Name>GrassRoadSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\GrassRoadSheet.xnb</Output>
+      <Time>2013-08-12T12:07:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>minimap.png</Source>
+      <Name>minimap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\minimap.xnb</Output>
+      <Time>2013-08-12T11:56:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>minimapborder.png</Source>
+      <Name>minimapborder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\minimapborder.xnb</Output>
+      <Time>2013-08-11T22:11:43-07:00</Time>
+    </Item>
+    <Item>
+      <Source>minimapoverlay.png</Source>
+      <Name>minimapoverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\minimapoverlay.xnb</Output>
+      <Time>2013-08-11T20:55:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>leftborder.png</Source>
+      <Name>leftborder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\leftborder.xnb</Output>
+      <Time>2013-08-12T22:13:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>rightborder.png</Source>
+      <Name>rightborder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\rightborder.xnb</Output>
+      <Time>2013-08-13T14:30:45-07:00</Time>
+    </Item>
+    <Item>
+      <Source>commandsbackground.png</Source>
+      <Name>commandsbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\commandsbackground.xnb</Output>
+      <Time>2013-08-13T20:50:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menubutton.png</Source>
+      <Name>menubutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\menubutton.xnb</Output>
+      <Time>2013-08-21T18:28:27-07:00</Time>
+    </Item>
+    <Item>
+      <Source>screenoverlay.png</Source>
+      <Name>screenoverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\screenoverlay.xnb</Output>
+      <Time>2013-08-21T12:25:01-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menubackground.png</Source>
+      <Name>menubackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\menubackground.xnb</Output>
+      <Time>2013-08-21T12:32:01-07:00</Time>
+    </Item>
+    <Item>
+      <Source>centerborder.png</Source>
+      <Name>centerborder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\centerborder.xnb</Output>
+      <Time>2013-12-18T17:26:49.2301227-08:00</Time>
+    </Item>
+    <Item>
+      <Source>towerthumbs.jpg</Source>
+      <Name>towerthumbs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\towerthumbs.xnb</Output>
+      <Time>2013-09-30T11:53:47-07:00</Time>
+    </Item>
+    <Item>
+      <Source>herothumbs.jpg</Source>
+      <Name>herothumbs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\herothumbs.xnb</Output>
+      <Time>2013-09-30T16:59:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>buildsellbuttons.jpg</Source>
+      <Name>buildsellbuttons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\buildsellbuttons.xnb</Output>
+      <Time>2013-09-30T17:00:13-07:00</Time>
+    </Item>
+    <Item>
+      <Source>towers.png</Source>
+      <Name>towers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\towers.xnb</Output>
+      <Time>2013-10-03T21:29:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>waitingtobuildtowers.png</Source>
+      <Name>waitingtobuildtowers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\waitingtobuildtowers.xnb</Output>
+      <Time>2013-10-03T21:33:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Miramonte.spritefont</Source>
+      <Name>Miramonte</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\Miramonte.xnb</Output>
+      <Time>2013-08-29T15:25:37.1395776-07:00</Time>
+    </Item>
+    <Item>
+      <Source>testenemy.png</Source>
+      <Name>testenemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\testenemy.xnb</Output>
+      <Time>2013-12-16T19:32:24.3629882-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\wave1bunnies.png</Source>
+      <Name>Enemies\wave1bunnies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\Enemies\wave1bunnies.xnb</Output>
+      <Time>2013-12-16T17:56:58-08:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2013-12-20T23:39:11.8460352-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTDContent\</RootDirectory>
+      <LoggerRootDirectory>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTDContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTD\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-28T11:23:00.3607337-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

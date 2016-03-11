@@ -1,0 +1,4 @@
+C:\1\Stuff I Want\programming stuff\XNA Extreme 101\My projects\BTD\BTD\BTDContent\obj\x86\Debug\BTDContent.contentprojResolveAssemblyReference.cache
+C:\Users\Enoch\Desktop\Programs\BTD\BTD\BTDContent\obj\x86\Debug\BTDContent.contentprojResolveAssemblyReference.cache
+D:\Dropbox\XNA Games\BTD\BTD\BTDContent\obj\x86\Debug\BTDContent.contentprojResolveAssemblyReference.cache
+C:\DropBox\Dropbox\XNA Games\BTD\BTD\BTDContent\obj\x86\Debug\BTDContent.contentprojResolveAssemblyReference.cache

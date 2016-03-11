@@ -1,0 +1,9 @@
+Arrow Turret; 7; 0; Piercing; 250; Primary defensive structure. Cheapest of the Human towers and takes the least time to build.; LA; 0; 0; 1500; 5; 7
+Cannon Tower; 35; 0; Normal; 800; Heavy defensive structure. Particularly effective against clusters of troops.; L; 64; 0; 1200; 15; 7
+SAM Battery; 35; 0; Piercing; 800; Basic anti-air tower. Has a fast attack rate and decent damage at a low cost.; A; 128; 0; 1000; 15; 7
+Workshop; 100; 1; None; 0; Produces Gyrocopters and the Sniper Hero./nAlso allows higher technology Human towers, such as the Ballista nad the Sheep Launcher, to be constructed.; None; 192; 0; 1000; 15; 7
+Ballista; 120; 0; Piercing; 1200; Powerful defensive structure. Attacks with a powerful but slow attack and has a very long range. This tower takes very little time to build compared to otehrs towers of comparable damage.; LA; 256; 0; 800; 15; 7
+Arrow Turret; 250; 0; Piercing; 700; Primary defensive structure. Cheapest of the Human towers and takes the least time to build.; LA; 320; 0; 1000; 15; 7
+Poison Arrow Turret; 500; 0; Chaos; 700; The cheapness of Human towers combines with the Vile Poison ability (improved Slow Poison) of Poison to create this useful tower. Has a very fast attack rate, is very cheap, and takes almost no time to build.; LA; 384; 0; 1000; 15; 7
+Arrow Turret; 750; 0; Piercing; 700; Primary defensive structure. Cheapest of the Human towers and takes the least time to build.; LA; 448; 0; 1000; 15; 7
+Arrow Turret; 1000; 1; Piercing; 700; Primary defensive structure. Cheapest of the Human towers and takes the least time to build.; LA; 512; 0; 1000; 15; 7
